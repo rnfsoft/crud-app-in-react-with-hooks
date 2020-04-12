@@ -5,7 +5,7 @@
     npm install --save-dev gh-pages
 
     package.json add
-        "homepage": "https://runsoft.github.io/crud-app-in-react-with-hooks"
+        "homepage": "https://rnfsoft.github.io/crud-app-in-react-with-hooks"
 
         "scripts": {
             // ...
